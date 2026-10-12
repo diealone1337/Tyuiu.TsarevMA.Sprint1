@@ -10,7 +10,7 @@ namespace Tyuiu.TsarevMA.Sprint1.Task0.V20
         Console.WriteLine("*****************************************************************************");
         Console.WriteLine("* Спринт #1                                                                 *");
         Console.WriteLine("* Тема: Базовые навыки работы в C#                                          *");
-        Console.WriteLine("* Задание #0                                                                 *");
+        Console.WriteLine("* Задание #1                                                                 *");
         Console.WriteLine("* Вариант #20                                                                *");
         Console.WriteLine("* Выполнил: Царёв Максим Александрович | СМАРТб-26-1                        *");
         Console.WriteLine("*****************************************************************************");
