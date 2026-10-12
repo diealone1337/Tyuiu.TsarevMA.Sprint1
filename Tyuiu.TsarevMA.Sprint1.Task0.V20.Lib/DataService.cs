@@ -8,4 +8,4 @@ namespace Tyuiu.TsarevMA.Sprint1.Task0.V20.Lib
             return 10 + (9 / 3);
         }
     }
-}
+} 
