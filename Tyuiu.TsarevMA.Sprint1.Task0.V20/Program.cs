@@ -1,8 +1,8 @@
 ﻿using Tyuiu.TsarevMA.Sprint1.Task0.V20.Lib;
 namespace Tyuiu.TsarevMA.Sprint1.Task0.V20
-{
+{ 
         class Programm
-    {
+        {
             static void Main(string[] args)
         {
         DataService ds = new DataService();
