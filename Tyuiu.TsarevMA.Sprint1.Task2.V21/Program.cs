@@ -1,5 +1,5 @@
 ﻿using Tyuiu.TsarevMA.Sprint1.Task2.V21.Lib;
-namespace Tyuiu.TsarevMA.Sprint1.Task0.V20
+namespace Tyuiu.TsarevMA.Sprint1.Task2.V21
 {
     class Programm
     {
