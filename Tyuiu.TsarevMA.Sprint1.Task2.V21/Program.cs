@@ -1,0 +1,30 @@
+﻿using Tyuiu.TsarevMA.Sprint1.Task2.V21.Lib;
+namespace Tyuiu.TsarevMA.Sprint1.Task0.V20
+{
+    class Programm
+    {
+        static void Main(string[] args)
+        {
+            DataService ds = new DataService();
+
+            Console.WriteLine("********************************************************************************");
+            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                             *");
+            Console.WriteLine("********************************************************************************");
+
+            int x;
+            int y;
+
+            Console.WriteLine("Введите значение X:");
+            x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Введите значение Y:");
+            y = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("********************************************************************************");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                                   *");
+            Console.WriteLine("********************************************************************************");
+            Console.WriteLine("Площадь прямоугольника = " + ds.CalculateRectangleSquare(x, y));
+
+            Console.ReadLine();
+        }
+    }
+}
